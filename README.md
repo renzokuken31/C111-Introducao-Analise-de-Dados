@@ -1,2 +1,2 @@
 # C111-Introducao-Analise-de-Dados
-Codigos pertinentes a disciplina de C111 Introducao a Analise de Dados 
+Códigos pertinentes à disciplina de C111 Introdução a Análise de Dados
